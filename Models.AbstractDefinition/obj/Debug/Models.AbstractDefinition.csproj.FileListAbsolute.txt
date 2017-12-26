@@ -1,0 +1,16 @@
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\bin\Debug\Models.AbstractDefinition’.dll
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\bin\Debug\Models.AbstractDefinition’.pdb
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\bin\Debug\Entities.dll
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\bin\Debug\Entities.pdb
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\obj\Debug\Models.AbstractDefinition.csprojResolveAssemblyReference.cache
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\obj\Debug\Models.AbstractDefinition.csproj.CoreCompileInputs.cache
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\obj\Debug\Models.AbstractDefinition’.dll
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\MyAirport.Pim\Models.AbstractDefinition’\obj\Debug\Models.AbstractDefinition’.pdb
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\bin\Debug\Models.AbstractDefinition’.dll
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\bin\Debug\Models.AbstractDefinition’.pdb
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\bin\Debug\Entities.dll
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\bin\Debug\Entities.pdb
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\obj\Debug\Models.AbstractDefinition.csprojResolveAssemblyReference.cache
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\obj\Debug\Models.AbstractDefinition.csproj.CoreCompileInputs.cache
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\obj\Debug\Models.AbstractDefinition’.dll
+C:\Users\PC Sylia\Documents\ING5\Cours\NET\Test\MyAirport.Pim\Models.AbstractDefinition\obj\Debug\Models.AbstractDefinition’.pdb
